@@ -46,3 +46,10 @@ git log (press q to quit)
 to clone a remote directory
 --------------------
 git clone https://GITADDRESS
+
+
+to create any file
+------------------
+touch .gitignore
+
+

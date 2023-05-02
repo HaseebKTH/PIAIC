@@ -1,0 +1,48 @@
+untracked ---> unmodified ---> modified ---> staged ---> commit (unmodified) 
+
+
+to view git file status
+----------------------
+git status
+
+
+to initiate git repository
+-------------------------
+git init
+
+
+to remove a git repository
+---------------------------
+rm -rf .git
+
+
+to view git configurations
+-------------------------
+git config --list
+
+
+to set git username and email
+-----------------------------
+git config --global user.name "USERNAME"
+git config --global user.email "EMAIL@EMAIL.COM"
+
+
+to stage/track all files
+------------------
+git add --a
+
+
+to commit all staged files
+--------------------------
+git commit -m "message"
+
+
+to view the git log
+-------------------
+git log (press q to quit)
+
+
+
+to clone a remote directory
+--------------------
+git clone https://GITADDRESS

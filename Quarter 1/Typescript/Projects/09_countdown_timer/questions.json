@@ -1,0 +1,2134 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital city of France?",
+            "choices": [
+                "London",
+                "Paris",
+                "New York",
+                "Tokyo"
+            ],
+            "answer": "Paris"
+        },
+        {
+            "question": "Which planet in our solar system is known as the 'Red Planet'?",
+            "choices": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "answer": "Mars"
+        },
+        {
+            "question": "What is the largest mammal in the world?",
+            "choices": [
+                "Elephant",
+                "Blue Whale",
+                "Giraffe",
+                "Rhinoceros"
+            ],
+            "answer": "Blue Whale"
+        },
+        {
+            "question": "Which city is known as the 'Eternal City'?",
+            "choices": [
+                "Rome",
+                "Athens",
+                "Paris",
+                "London"
+            ],
+            "answer": "Rome"
+        },
+        {
+            "question": "What is the tallest mountain in North America?",
+            "choices": [
+                "Mount St. Helens",
+                "Mount Everest",
+                "Mount Denali",
+                "Mount Kilimanjaro"
+            ],
+            "answer": "Mount Denali"
+        },
+        {
+            "question": "What is the capital city of Mexico?",
+            "choices": [
+                "Monterrey",
+                "Guadalajara",
+                "Mexico City",
+                "Cancun"
+            ],
+            "answer": "Mexico City"
+        },
+        {
+            "question": "What is the square root of 121?",
+            "choices": [
+                "11",
+                "12",
+                "13",
+                "14"
+            ],
+            "answer": "11"
+        },
+        {
+            "question": "Who was the first president of the United States?",
+            "choices": [
+                "George Washington",
+                "Thomas Jefferson",
+                "John Adams",
+                "Abraham Lincoln"
+            ],
+            "answer": "George Washington"
+        },
+        {
+            "question": "What is the highest waterfall in the world?",
+            "choices": [
+                "Angel Falls",
+                "Niagara Falls",
+                "Victoria Falls",
+                "Iguazu Falls"
+            ],
+            "answer": "Angel Falls"
+        },
+        {
+            "question": "What is the capital city of Australia?",
+            "choices": [
+                "Melbourne",
+                "Sydney",
+                "Canberra",
+                "Brisbane"
+            ],
+            "answer": "Canberra"
+        },
+        {
+            "question": "What is the formula for calculating the area of a triangle?",
+            "choices": [
+                "A = lw",
+                "A = (b x h) / 2",
+                "A = l x w x h",
+                "A = πr²"
+            ],
+            "answer": "A = (b x h) / 2"
+        },
+        {
+            "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+            "choices": [
+                "Harper Lee",
+                "J.D. Salinger",
+                "Ernest Hemingway",
+                "F. Scott Fitzgerald"
+            ],
+            "answer": "Harper Lee"
+        },
+        {
+            "question": "What is the largest desert in the world?",
+            "choices": [
+                "Sahara Desert",
+                "Gobi Desert",
+                "Arabian Desert",
+                "Antarctic Desert"
+            ],
+            "answer": "Antarctic Desert"
+        },
+        {
+            "question": "What is the capital city of Spain?",
+            "choices": [
+                "Barcelona",
+                "Madrid",
+                "Valencia",
+                "Seville"
+            ],
+            "answer": "Madrid"
+        },
+        {
+            "question": "What is the atomic number of carbon?",
+            "choices": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "answer": "6"
+        },
+        {
+            "question": "Who was the leader of the Soviet Union during World War II?",
+            "choices": [
+                "Joseph Stalin",
+                "Vladimir Putin",
+                "Mikhail Gorbachev",
+                "Boris Yeltsin"
+            ],
+            "answer": "Joseph Stalin"
+        },
+        {
+            "question": "What is the largest continent in the world?",
+            "choices": [
+                "Europe",
+                "North America",
+                "Asia",
+                "South America"
+            ],
+            "answer": "Asia"
+        },
+        {
+            "question": "What is the capital city of Brazil?",
+            "choices": [
+                "Rio de Janeiro",
+                "Brasilia",
+                "Sao Paulo",
+                "Salvador"
+            ],
+            "answer": "Brasilia"
+        },
+        {
+            "question": "What is the symbol for the element gold on the periodic table?",
+            "choices": [
+                "Ag",
+                "Au",
+                "Fe",
+                "Cu"
+            ],
+            "answer": "Au"
+        },
+        {
+            "question": "What is the highest mountain in Europe?",
+            "choices": [
+                "Mount Elbrus",
+                "Mont Blanc",
+                "Mount Olympus",
+                "Mount Etna"
+            ],
+            "answer": "Mount Elbrus"
+        },
+        {
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "choices": [
+                "William Shakespeare",
+                "Tennessee Williams",
+                "Arthur Miller",
+                "August Wilson"
+            ],
+            "answer": "William Shakespeare"
+        },
+        {
+            "question": "What is the formula for calculating the volume of a sphere?",
+            "choices": [
+                "V = l x w x h",
+                "V = πr²h",
+                "V = (4/3)πr³",
+                "V = (1/3)πr²h"
+            ],
+            "answer": "V = (4/3)πr³"
+        },
+        {
+            "question": "What is the capital city of South Africa?",
+            "choices": [
+                "Johannesburg",
+                "Pretoria",
+                "Cape Town",
+                "Durban"
+            ],
+            "answer": "Pretoria"
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "choices": [
+                "Mercury",
+                "Venus",
+                "Mars",
+                "Jupiter"
+            ],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "Who was the first person to walk on the moon?",
+            "choices": [
+                "Buzz Aldrin",
+                "Neil Armstrong",
+                "Yuri Gagarin",
+                "Alan Shepard"
+            ],
+            "answer": "Neil Armstrong"
+        },
+        {
+            "question": "What is the largest country in the world by land area?",
+            "choices": [
+                "Russia",
+                "China",
+                "Canada",
+                "United States"
+            ],
+            "answer": "Russia"
+        },
+        {
+            "question": "What is the capital city of Canada?",
+            "choices": [
+                "Montreal",
+                "Toronto",
+                "Vancouver",
+                "Ottawa"
+            ],
+            "answer": "Ottawa"
+        },
+        {
+            "question": "What is the highest point on the Earth's surface?",
+            "choices": [
+                "Mount Everest",
+                "Mount Denali",
+                "Mount Kilimanjaro",
+                "Mount Fuji"
+            ],
+            "answer": "Mount Everest"
+        },
+        {
+            "question": "What is the capital city of India?",
+            "choices": [
+                "Mumbai",
+                "Delhi",
+                "Bangalore",
+                "Kolkata"
+            ],
+            "answer": "Delhi"
+        },
+        {
+            "question": "What is the symbol for the element carbon on the periodic table?",
+            "choices": [
+                "C",
+                "Co",
+                "Ca",
+                "Cu"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "Who was the first female Prime Minister of the United Kingdom?",
+            "choices": [
+                "Margaret Thatcher",
+                "Theresa May",
+                "Angela Merkel",
+                "Jacinda Ardern"
+            ],
+            "answer": "Margaret Thatcher"
+        },
+        {
+            "question": "What is the capital city of Argentina?",
+            "choices": [
+                "Buenos Aires",
+                "Rio de Janeiro",
+                "Santiago",
+                "Lima"
+            ],
+            "answer": "Buenos Aires"
+        },
+        {
+            "question": "What is the largest ocean in the world?",
+            "choices": [
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Atlantic Ocean",
+                "Pacific Ocean"
+            ],
+            "answer": "Pacific Ocean"
+        },
+        {
+            "question": "Who wrote the book 'To Kill a Mockingbird'?",
+            "choices": [
+                "Harper Lee",
+                "Mark Twain",
+                "William Faulkner",
+                "Ernest Hemingway"
+            ],
+            "answer": "Harper Lee"
+        },
+        {
+            "question": "What is the formula for calculating the area of a circle?",
+            "choices": [
+                "A = l x w",
+                "A = πr",
+                "A = πr²",
+                "A = (1/2)bh"
+            ],
+            "answer": "A = πr²"
+        },
+        {
+            "question": "What is the capital city of Spain?",
+            "choices": [
+                "Barcelona",
+                "Madrid",
+                "Valencia",
+                "Seville"
+            ],
+            "answer": "Madrid"
+        },
+        {
+            "question": "What is the smallest planet in our solar system?",
+            "choices": [
+                "Mercury",
+                "Venus",
+                "Mars",
+                "Jupiter"
+            ],
+            "answer": "Mercury"
+        },
+        {
+            "question": "Who was the first President of the United States?",
+            "choices": [
+                "Thomas Jefferson",
+                "George Washington",
+                "John Adams",
+                "James Madison"
+            ],
+            "answer": "George Washington"
+        },
+        {
+            "question": "What is the capital city of China?",
+            "choices": [
+                "Shanghai",
+                "Hong Kong",
+                "Beijing",
+                "Chongqing"
+            ],
+            "answer": "Beijing"
+        },
+        {
+            "question": "What is the symbol for the element nitrogen on the periodic table?",
+            "choices": [
+                "N",
+                "Ni",
+                "Na",
+                "Ne"
+            ],
+            "answer": "N"
+        },
+        {
+            "question": "Who wrote the book 'The Catcher in the Rye'?",
+            "choices": [
+                "F. Scott Fitzgerald",
+                "J.D. Salinger",
+                "Ernest Hemingway",
+                "William Faulkner"
+            ],
+            "answer": "J.D. Salinger"
+        },
+        {
+            "question": "What is the highest waterfall in the world?",
+            "choices": [
+                "Niagara Falls",
+                "Angel Falls",
+                "Iguazu Falls",
+                "Victoria Falls"
+            ],
+            "answer": "Angel Falls"
+        },
+        {
+            "question": "What is the capital city of Italy?",
+            "choices": [
+                "Milan",
+                "Florence",
+                "Venice",
+                "Rome"
+            ],
+            "answer": "Rome"
+        },
+        {
+            "question": "What is the formula for calculating the volume of a cylinder?",
+            "choices": [
+                "V = l x w x h",
+                "V = πr²h",
+                "V = (4/3)πr³",
+                "V = (1/3)πr²h"
+            ],
+            "answer": "V = πr²h"
+        },
+        {
+            "question": "What is the largest desert in the world?",
+            "choices": [
+                "Sahara Desert",
+                "Arabian Desert",
+                "Gobi Desert",
+                "Antarctica"
+            ],
+            "answer": "Sahara Desert"
+        },
+        {
+            "question": "What is the most visited city in the world?",
+            "choices": [
+                "London",
+                "Paris",
+                "Bangkok",
+                "Dubai"
+            ],
+            "answer": "Bangkok"
+        },
+        {
+            "question": "What is the tallest building in the world?",
+            "choices": [
+                "Burj Khalifa",
+                "Shanghai Tower",
+                "Abraj Al Bait Clock Tower",
+                "Ping An Finance Centre"
+            ],
+            "answer": "Burj Khalifa"
+        },
+        {
+            "question": "What is the highest mountain in North America?",
+            "choices": [
+                "Mount Everest",
+                "Mount Kilimanjaro",
+                "Mount Denali",
+                "Mount Fuji"
+            ],
+            "answer": "Mount Denali"
+        },
+        {
+            "question": "What is the largest city in Australia?",
+            "choices": [
+                "Sydney",
+                "Melbourne",
+                "Brisbane",
+                "Perth"
+            ],
+            "answer": "Sydney"
+        },
+        {
+            "question": "What is the largest museum in the world?",
+            "choices": [
+                "The Louvre",
+                "The British Museum",
+                "The Smithsonian",
+                "The Hermitage"
+            ],
+            "answer": "The Louvre"
+        },
+        {
+            "question": "What is the largest island in the Mediterranean Sea?",
+            "choices": [
+                "Sardinia",
+                "Sicily",
+                "Corsica",
+                "Crete"
+            ],
+            "answer": "Sicily"
+        },
+        {
+            "question": "What is the name of the tallest waterfall in the United States?",
+            "choices": [
+                "Yosemite Falls",
+                "Multnomah Falls",
+                "Angel Falls",
+                "Victoria Falls"
+            ],
+            "answer": "Yosemite Falls"
+        },
+        {
+            "question": "What is the largest waterfall in Africa?",
+            "choices": [
+                "Victoria Falls",
+                "Niagara Falls",
+                "Iguazu Falls",
+                "Angel Falls"
+            ],
+            "answer": "Victoria Falls"
+        },
+        {
+            "question": "What is the name of the famous canal that connects the Atlantic and Pacific Oceans?",
+            "choices": [
+                "Panama Canal",
+                "Suez Canal",
+                "Kiel Canal",
+                "Erie Canal"
+            ],
+            "answer": "Panama Canal"
+        },
+        {
+            "question": "What is the name of the mountain range that runs through South America?",
+            "choices": [
+                "The Rockies",
+                "The Andes",
+                "The Himalayas",
+                "The Alps"
+            ],
+            "answer": "The Andes"
+        },
+        {
+            "question": "What is the name of the famous Opera House located in Sydney, Australia?",
+            "choices": [
+                "La Scala",
+                "The Royal Opera House",
+                "The Met",
+                "The Sydney Opera House"
+            ],
+            "answer": "The Sydney Opera House"
+        },
+        {
+            "question": "What is the name of the ancient city located in Jordan that is carved into pink sandstone cliffs?",
+            "choices": [
+                "Petra",
+                "Machu Picchu",
+                "Chichen Itza",
+                "The Great Wall"
+            ],
+            "answer": "Petra"
+        },
+        {
+            "question": "What is the name of the famous street in Las Vegas known for its bright lights and casinos?",
+            "choices": [
+                "Broadway",
+                "Times Square",
+                "The Strip",
+                "Sunset Boulevard"
+            ],
+            "answer": "The Strip"
+        },
+        {
+            "question": "What is the sum of the first 10 positive integers?",
+            "choices": [
+                "45",
+                "50",
+                "55",
+                "60"
+            ],
+            "answer": "55"
+        },
+        {
+            "question": "What is the value of pi (to two decimal places)?",
+            "choices": [
+                "3.12",
+                "3.14",
+                "3.16",
+                "3.18"
+            ],
+            "answer": "3.14"
+        },
+        {
+            "question": "What is the square root of 169?",
+            "choices": [
+                "12",
+                "13",
+                "14",
+                "15"
+            ],
+            "answer": "13"
+        },
+        {
+            "question": "What is the equation of a line that passes through the points (1,2) and (3,4)?",
+            "choices": [
+                "y = 2x",
+                "y = x + 1",
+                "y = -x + 3",
+                "y = x - 1"
+            ],
+            "answer": "y = x + 1"
+        },
+        {
+            "question": "What is the value of x in the equation 2x + 5 = 9?",
+            "choices": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "What is the perimeter of a rectangle with length 6 and width 4?",
+            "choices": [
+                "12",
+                "16",
+                "20",
+                "24"
+            ],
+            "answer": "20"
+        },
+        {
+            "question": "What is the area of a triangle with base 5 and height 8?",
+            "choices": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "answer": "20"
+        },
+        {
+            "question": "What is the value of x in the equation x/3 = 6?",
+            "choices": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "answer": "18"
+        },
+        {
+            "question": "What is the slope of a line that passes through the points (-2,3) and (4,1)?",
+            "choices": [
+                "-1/3",
+                "1/3",
+                "3/4",
+                "4/3"
+            ],
+            "answer": "-1/3"
+        },
+        {
+            "question": "What is the value of x in the equation 4x - 7 = 9?",
+            "choices": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "What is the capital of Brazil?",
+            "choices": [
+                "Rio de Janeiro",
+                "Sao Paulo",
+                "Brasilia",
+                "Recife"
+            ],
+            "answer": "Brasilia"
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "choices": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "answer": "Mars"
+        },
+        {
+            "question": "What is the national animal of Canada?",
+            "choices": [
+                "Moose",
+                "Beaver",
+                "Polar bear",
+                "Bald eagle"
+            ],
+            "answer": "Beaver"
+        },
+        {
+            "question": "Which country is the smallest in the world by land area?",
+            "choices": [
+                "Vatican City",
+                "Monaco",
+                "Nauru",
+                "Tuvalu"
+            ],
+            "answer": "Vatican City"
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "choices": [
+                "Vincent van Gogh",
+                "Leonardo da Vinci",
+                "Pablo Picasso",
+                "Claude Monet"
+            ],
+            "answer": "Leonardo da Vinci"
+        },
+        {
+            "question": "What is the largest organ in the human body?",
+            "choices": [
+                "Liver",
+                "Skin",
+                "Heart",
+                "Brain"
+            ],
+            "answer": "Skin"
+        },
+        {
+            "question": "What is the currency of Japan?",
+            "choices": [
+                "Yuan",
+                "Euro",
+                "Yen",
+                "Dollar"
+            ],
+            "answer": "Yen"
+        },
+        {
+            "question": "Which social media platform was founded by Mark Zuckerberg?",
+            "choices": [
+                "Twitter",
+                "Instagram",
+                "Facebook",
+                "Snapchat"
+            ],
+            "answer": "Facebook"
+        },
+        {
+            "question": "Who wrote the Harry Potter series of books?",
+            "choices": [
+                "J.K. Rowling",
+                "Stephen King",
+                "George R.R. Martin",
+                "Dan Brown"
+            ],
+            "answer": "J.K. Rowling"
+        },
+        {
+            "question": "What is the name of the world's largest desert?",
+            "choices": [
+                "Sahara",
+                "Gobi",
+                "Arabian",
+                "Antarctica"
+            ],
+            "answer": "Sahara"
+        },
+        {
+            "question": "What does the acronym HTML stand for?",
+            "choices": [
+                "Hypertext Markup Language",
+                "Hyperlink Markup Language",
+                "High-Level Markup Language",
+                "Hypertext Modeling Language"
+            ],
+            "answer": "Hypertext Markup Language"
+        },
+        {
+            "question": "What does the acronym CSS stand for?",
+            "choices": [
+                "Computer Style Sheets",
+                "Cascading Style Sheets",
+                "Cascading Sheet Styles",
+                "Computer Sheet Styles"
+            ],
+            "answer": "Cascading Style Sheets"
+        },
+        {
+            "question": "What does the acronym HTTP stand for?",
+            "choices": [
+                "Hypertext Transfer Protocol",
+                "Hyperlink Transfer Protocol",
+                "High-Level Transfer Protocol",
+                "Hypertext Modeling Protocol"
+            ],
+            "answer": "Hypertext Transfer Protocol"
+        },
+        {
+            "question": "What does the acronym FTP stand for?",
+            "choices": [
+                "File Transfer Platform",
+                "File Transfer Protocol",
+                "File Transfer Processor",
+                "File Transfer Procedure"
+            ],
+            "answer": "File Transfer Protocol"
+        },
+        {
+            "question": "What does the acronym URL stand for?",
+            "choices": [
+                "Uniform Resource Locator",
+                "Universal Resource Locator",
+                "Unique Resource Locator",
+                "User Resource Locator"
+            ],
+            "answer": "Uniform Resource Locator"
+        },
+        {
+            "question": "What is the name of Google's mobile operating system?",
+            "choices": [
+                "iOS",
+                "Windows Mobile",
+                "Android",
+                "BlackBerry OS"
+            ],
+            "answer": "Android"
+        },
+        {
+            "question": "What does the acronym VPN stand for?",
+            "choices": [
+                "Virtual Private Network",
+                "Virtual Public Network",
+                "Verified Private Network",
+                "Verified Public Network"
+            ],
+            "answer": "Virtual Private Network"
+        },
+        {
+            "question": "What is the name of Apple's virtual assistant?",
+            "choices": [
+                "Siri",
+                "Alexa",
+                "Cortana",
+                "Google Assistant"
+            ],
+            "answer": "Siri"
+        },
+        {
+            "question": "What does the acronym Wi-Fi stand for?",
+            "choices": [
+                "Wireless Fidelity",
+                "Wireless Frequency",
+                "Wireless Network",
+                "Wireless Connection"
+            ],
+            "answer": "Wireless Fidelity"
+        },
+        {
+            "question": "What is the name of the world's largest technology company by revenue?",
+            "choices": [
+                "Apple",
+                "Google",
+                "Microsoft",
+                "Amazon"
+            ],
+            "answer": "Apple"
+        },
+        {
+            "question": "What is the name of the smallest particle in an element that has the properties of that element?",
+            "choices": [
+                "Atom",
+                "Molecule",
+                "Neutron",
+                "Proton"
+            ],
+            "answer": "Atom"
+        },
+        {
+            "question": "What is the unit used to measure force?",
+            "choices": [
+                "Joule",
+                "Newton",
+                "Watt",
+                "Volt"
+            ],
+            "answer": "Newton"
+        },
+        {
+            "question": "Which planet in our solar system is known as the 'Red Planet'?",
+            "choices": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "answer": "Mars"
+        },
+        {
+            "question": "What is the name of the process by which plants convert sunlight into energy?",
+            "choices": [
+                "Photosynthesis",
+                "Respiration",
+                "Transpiration",
+                "Fermentation"
+            ],
+            "answer": "Photosynthesis"
+        },
+        {
+            "question": "What is the name of the particle that is responsible for carrying the force of magnetism?",
+            "choices": [
+                "Photon",
+                "Neutrino",
+                "Positron",
+                "Photon"
+            ],
+            "answer": "Photon"
+        },
+        {
+            "question": "What is the smallest planet in our solar system?",
+            "choices": [
+                "Mercury",
+                "Mars",
+                "Venus",
+                "Pluto"
+            ],
+            "answer": "Mercury"
+        },
+        {
+            "question": "What is the name of the closest star to our solar system?",
+            "choices": [
+                "Proxima Centauri",
+                "Alpha Centauri",
+                "Betelgeuse",
+                "Vega"
+            ],
+            "answer": "Proxima Centauri"
+        },
+        {
+            "question": "What is the name of the force that keeps objects in orbit around each other?",
+            "choices": [
+                "Gravitational force",
+                "Magnetic force",
+                "Electric force",
+                "Nuclear force"
+            ],
+            "answer": "Gravitational force"
+        },
+        {
+            "question": "What is the name of the layer of the Earth's atmosphere that contains the ozone layer?",
+            "choices": [
+                "Troposphere",
+                "Mesosphere",
+                "Stratosphere",
+                "Ionosphere"
+            ],
+            "answer": "Stratosphere"
+        },
+        {
+            "question": "What is the name of the process by which cells divide and create new cells?",
+            "choices": [
+                "Mitosis",
+                "Meiosis",
+                "Fermentation",
+                "Respiration"
+            ],
+            "answer": "Mitosis"
+        },
+        {
+            "question": "In what year did the first modern Olympic Games take place?",
+            "choices": [
+                "1896",
+                "1900",
+                "1912",
+                "1924"
+            ],
+            "answer": "1896"
+        },
+        {
+            "question": "What is the highest score a gymnast can achieve in artistic gymnastics?",
+            "choices": [
+                "10",
+                "9.8",
+                "9.5",
+                "9.0"
+            ],
+            "answer": "10"
+        },
+        {
+            "question": "In which city did the 2016 Summer Olympics take place?",
+            "choices": [
+                "Rio de Janeiro",
+                "Tokyo",
+                "Beijing",
+                "Athens"
+            ],
+            "answer": "Rio de Janeiro"
+        },
+        {
+            "question": "What is the name of the American basketball player who won five NBA championships with the Los Angeles Lakers?",
+            "choices": [
+                "Michael Jordan",
+                "Kobe Bryant",
+                "Magic Johnson",
+                "Shaquille O'Neal"
+            ],
+            "answer": "Kobe Bryant"
+        },
+        {
+            "question": "What is the maximum number of players allowed on a football (soccer) team?",
+            "choices": [
+                "11",
+                "10",
+                "9",
+                "8"
+            ],
+            "answer": "11"
+        },
+        {
+            "question": "What is the name of the horse that won the Triple Crown in 2018?",
+            "choices": [
+                "Justify",
+                "American Pharoah",
+                "California Chrome",
+                "Secretariat"
+            ],
+            "answer": "Justify"
+        },
+        {
+            "question": "In what country was tennis player Rafael Nadal born?",
+            "choices": [
+                "Spain",
+                "Switzerland",
+                "Argentina",
+                "Serbia"
+            ],
+            "answer": "Spain"
+        },
+        {
+            "question": "What is the name of the racehorse who won the 1973 Belmont Stakes by an astonishing 31 lengths?",
+            "choices": [
+                "American Pharoah",
+                "Secretariat",
+                "Seabiscuit",
+                "Man o' War"
+            ],
+            "answer": "Secretariat"
+        },
+        {
+            "question": "What is the name of the fastest man in the world, who holds the world record in the 100 meter dash?",
+            "choices": [
+                "Usain Bolt",
+                "Carl Lewis",
+                "Asafa Powell",
+                "Tyson Gay"
+            ],
+            "answer": "Usain Bolt"
+        },
+        {
+            "question": "What is the name of the American football quarterback who won seven Super Bowl championships with the New England Patriots?",
+            "choices": [
+                "Tom Brady",
+                "Peyton Manning",
+                "Brett Favre",
+                "Aaron Rodgers"
+            ],
+            "answer": "Tom Brady"
+        },
+        {
+            "question": "Who is the current president of the United States?",
+            "choices": [
+                "Joe Biden",
+                "Donald Trump",
+                "Barack Obama",
+                "George W. Bush"
+            ],
+            "answer": "Joe Biden"
+        },
+        {
+            "question": "What is the capital of Russia?",
+            "choices": [
+                "Moscow",
+                "St. Petersburg",
+                "Vladivostok",
+                "Novosibirsk"
+            ],
+            "answer": "Moscow"
+        },
+        {
+            "question": "Which country is not a permanent member of the United Nations Security Council?",
+            "choices": [
+                "Japan",
+                "China",
+                "Russia",
+                "Brazil"
+            ],
+            "answer": "Brazil"
+        },
+        {
+            "question": "What is the capital of Canada?",
+            "choices": [
+                "Toronto",
+                "Vancouver",
+                "Montreal",
+                "Ottawa"
+            ],
+            "answer": "Ottawa"
+        },
+        {
+            "question": "Who is the current prime minister of Japan?",
+            "choices": [
+                "Shinzo Abe",
+                "Yoshihide Suga",
+                "Junichiro Koizumi",
+                "Naoto Kan"
+            ],
+            "answer": "Yoshihide Suga"
+        },
+        {
+            "question": "Which country is not a member of the European Union?",
+            "choices": [
+                "Switzerland",
+                "Germany",
+                "France",
+                "Spain"
+            ],
+            "answer": "Switzerland"
+        },
+        {
+            "question": "What is the capital of Mexico?",
+            "choices": [
+                "Cancun",
+                "Tijuana",
+                "Mexico City",
+                "Monterrey"
+            ],
+            "answer": "Mexico City"
+        },
+        {
+            "question": "Who is the current prime minister of India?",
+            "choices": [
+                "Narendra Modi",
+                "Manmohan Singh",
+                "Rahul Gandhi",
+                "Sonia Gandhi"
+            ],
+            "answer": "Narendra Modi"
+        },
+        {
+            "question": "Which country is not a member of NATO?",
+            "choices": [
+                "France",
+                "United States",
+                "Canada",
+                "Russia"
+            ],
+            "answer": "Russia"
+        },
+        {
+            "question": "Who is the current chancellor of Germany?",
+            "choices": [
+                "Angela Merkel",
+                "Gerhard Schroeder",
+                "Helmut Kohl",
+                "Konrad Adenauer"
+            ],
+            "answer": "Angela Merkel"
+        },
+        {
+            "question": "Who is the current Prime Minister of Pakistan?",
+            "choices": [
+                "Imran Khan",
+                "Nawaz Sharif",
+                "Shahbaz Sharif",
+                "Bilawal Bhutto Zardari"
+            ],
+            "answer": "Shahbaz Sharif"
+        },
+        {
+            "question": "Who was the first Prime Minister of Pakistan?",
+            "choices": [
+                "Liaquat Ali Khan",
+                "Muhammad Ali Jinnah",
+                "Ayub Khan",
+                "Zulfikar Ali Bhutto"
+            ],
+            "answer": "Liaquat Ali Khan"
+        },
+        {
+            "question": "Which political party won the most seats in the 2018 General Elections?",
+            "choices": [
+                "Pakistan Tehreek-e-Insaf",
+                "Pakistan Muslim League-Nawaz",
+                "Pakistan Peoples Party",
+                "Muttahida Qaumi Movement"
+            ],
+            "answer": "Pakistan Tehreek-e-Insaf"
+        },
+        {
+            "question": "Who is the current President of Pakistan?",
+            "choices": [
+                "Arif Alvi",
+                "Mamnoon Hussain",
+                "Pervez Musharraf",
+                "Asif Ali Zardari"
+            ],
+            "answer": "Arif Alvi"
+        },
+        {
+            "question": "Who is the current Chief Justice of Pakistan?",
+            "choices": [
+                "Umar Ata Bandial",
+                "Mian Saqib Nisar",
+                "Asif Saeed Khosa",
+                "Iftikhar Muhammad Chaudhry"
+            ],
+            "answer": "Umar Ata Bandial"
+        },
+        {
+            "question": "Which political party won the most seats in the 2013 General Elections?",
+            "choices": [
+                "Pakistan Muslim League-Nawaz",
+                "Pakistan Tehreek-e-Insaf",
+                "Pakistan Peoples Party",
+                "Muttahida Qaumi Movement"
+            ],
+            "answer": "Pakistan Muslim League-Nawaz"
+        },
+        {
+            "question": "Who was the first female Prime Minister of Pakistan?",
+            "choices": [
+                "Benazir Bhutto",
+                "Kalsoom Nawaz",
+                "Nusrat Bhutto",
+                "Tahira Mazhar Ali Khan"
+            ],
+            "answer": "Benazir Bhutto"
+        },
+        {
+            "question": "Who is the current Chief of Army Staff of Pakistan?",
+            "choices": [
+                "Qamar Javed Bajwa",
+                "Raheel Sharif",
+                "Ashfaq Parvez Kayani",
+                "Hafiz Asim Munir"
+            ],
+            "answer": "Hafiz Asim Munir"
+        },
+        {
+            "question": "Which political party won the most seats in the 2008 General Elections?",
+            "choices": [
+                "Pakistan Peoples Party",
+                "Pakistan Muslim League-Nawaz",
+                "Pakistan Muslim League-Quaid",
+                "Muttahida Qaumi Movement"
+            ],
+            "answer": "Pakistan Peoples Party"
+        },
+        {
+            "question": "Who was the first President of Pakistan?",
+            "choices": [
+                "Iskander Mirza",
+                "Ayub Khan",
+                "Yahya Khan",
+                "Zulfikar Ali Bhutto"
+            ],
+            "answer": "Iskander Mirza"
+        },
+        {
+            "question": "Who was the founder of the Mughal Empire in India?",
+            "choices": [
+                "Babur",
+                "Akbar",
+                "Shah Jahan",
+                "Aurangzeb"
+            ],
+            "answer": "Babur"
+        },
+        {
+            "question": "Who was the first Governor-General of Pakistan?",
+            "choices": [
+                "Muhammad Ali Jinnah",
+                "Liaquat Ali Khan",
+                "Ghulam Muhammad",
+                "Iskander Mirza"
+            ],
+            "answer": "Muhammad Ali Jinnah"
+        },
+        {
+            "question": "Which famous battle took place in 326 BC between Alexander the Great and King Porus?",
+            "choices": [
+                "Battle of the Hydaspes",
+                "Battle of Plassey",
+                "Battle of Panipat",
+                "Battle of Haldighati"
+            ],
+            "answer": "Battle of the Hydaspes"
+        },
+        {
+            "question": "Who was the last Mughal Emperor of India?",
+            "choices": [
+                "Bahadur Shah Zafar",
+                "Aurangzeb",
+                "Shah Jahan",
+                "Jahangir"
+            ],
+            "answer": "Bahadur Shah Zafar"
+        },
+        {
+            "question": "Who was the first Muslim ruler of the Indian subcontinent?",
+            "choices": [
+                "Qutub-ud-din Aibak",
+                "Babar",
+                "Alauddin Khilji",
+                "Akbar"
+            ],
+            "answer": "Qutub-ud-din Aibak"
+        },
+        {
+            "question": "Which British Viceroy of India announced the partition of Bengal in 1905?",
+            "choices": [
+                "Lord Curzon",
+                "Lord Mountbatten",
+                "Lord Canning",
+                "Lord Ripon"
+            ],
+            "answer": "Lord Curzon"
+        },
+        {
+            "question": "Which famous resolution was passed on 23rd March, 1940 at Lahore?",
+            "choices": [
+                "Pakistan Resolution",
+                "Lahore Resolution",
+                "Delhi Resolution",
+                "Islamabad Resolution"
+            ],
+            "answer": "Lahore Resolution"
+        },
+        {
+            "question": "Which Pakistani leader served as the Foreign Minister of Pakistan during the 1950s?",
+            "choices": [
+                "Muhammad Zafrullah Khan",
+                "Huseyn Shaheed Suhrawardy",
+                "Mohammad Ali Bogra",
+                "Khawaja Nazimuddin"
+            ],
+            "answer": "Muhammad Zafrullah Khan"
+        },
+        {
+            "question": "Who was the first female Governor of Pakistan?",
+            "choices": [
+                "Rana Liaquat Ali Khan",
+                "Begum Ra'ana Liaquat Ali Khan",
+                "Shamshad Akhtar",
+                "Ishrat Hussain"
+            ],
+            "answer": "Begum Ra'ana Liaquat Ali Khan"
+        },
+        {
+            "question": "Who was the first Chief Justice of Pakistan?",
+            "choices": [
+                "Muhammad Shahabuddin",
+                "Mian Abdul Rashid",
+                "Abdur Rashid",
+                "Alvin Robert Cornelius"
+            ],
+            "answer": "Muhammad Shahabuddin"
+        },
+        {
+            "question": "Who is the first Pakistani cricketer to score a century in T20I?",
+            "choices": [
+                "Kamran Akmal",
+                "Ahmed Shehzad",
+                "Shoaib Malik",
+                "Umar Akmal"
+            ],
+            "answer": "Ahmed Shehzad"
+        },
+        {
+            "question": "Which Pakistani athlete won the bronze medal in 800m race at 1990 Beijing Asian Games?",
+            "choices": [
+                "Mubarak Shah",
+                "Mirza Khan",
+                "Nadir Khan",
+                "Mohammad Younus"
+            ],
+            "answer": "Nadir Khan"
+        },
+        {
+            "question": "Who is the first Pakistani cricketer to score a triple century in a Test match?",
+            "choices": [
+                "Javed Miandad",
+                "Hanif Mohammad",
+                "Younis Khan",
+                "Inzamam-ul-Haq"
+            ],
+            "answer": "Hanif Mohammad"
+        },
+        {
+            "question": "Which Pakistani boxer won the gold medal in flyweight category at 1988 Seoul Olympics?",
+            "choices": [
+                "Syed Hussain Shah",
+                "Mansoor Ahmed",
+                "Haider Ali",
+                "Syed Asghar Shah"
+            ],
+            "answer": "Syed Hussain Shah"
+        },
+        {
+            "question": "Who is the first Pakistani cricketer to score 10,000 runs in Test cricket?",
+            "choices": [
+                "Javed Miandad",
+                "Inzamam-ul-Haq",
+                "Younis Khan",
+                "Mohammad Yousuf"
+            ],
+            "answer": "Javed Miandad"
+        },
+        {
+            "question": "Which Pakistani footballer is known as the \"Sultan of Samanabad\"?",
+            "choices": [
+                "Majid Khan",
+                "Waqar Hassan",
+                "Essa Khan",
+                "Abdul Ghafoor Majna"
+            ],
+            "answer": "Abdul Ghafoor Majna"
+        },
+        {
+            "question": "Who is the first Pakistani cricketer to take 100 wickets in T20I?",
+            "choices": [
+                "Shoaib Malik",
+                "Umar Gul",
+                "Wahab Riaz",
+                "Saeed Ajmal"
+            ],
+            "answer": "Umar Gul"
+        },
+        {
+            "question": "Which Pakistani squash player is known as the \"Asian Tiger\"?",
+            "choices": [
+                "Jansher Khan",
+                "Jahangir Khan",
+                "Qamar Zaman",
+                "Hashim Khan"
+            ],
+            "answer": "Jansher Khan"
+        },
+        {
+            "question": "Who is the first Pakistani woman cricketer to score a century in ODI?",
+            "choices": [
+                "Sana Mir",
+                "Bismah Maroof",
+                "Sadia Yousuf",
+                "Nain Abidi"
+            ],
+            "answer": "Bismah Maroof"
+        },
+        {
+            "question": "Which Pakistani athlete won the silver medal in 110m hurdles at 1964 Tokyo Olympics?",
+            "choices": [
+                "Mohammad Sharif Butt",
+                "Mubarak Shah",
+                "Mian Ghulam Muhammad",
+                "Hayatullah Khan Durrani"
+            ],
+            "answer": "Hayatullah Khan Durrani"
+        },
+        {
+            "question": "When did Pakistan become independent?",
+            "choices": [
+                "14 August 1947",
+                "23 March 1940",
+                "3 June 1947",
+                "15 August 1947"
+            ],
+            "answer": "14 August 1947"
+        },
+        {
+            "question": "Who was the first Prime Minister of Pakistan?",
+            "choices": [
+                "Liaquat Ali Khan",
+                "Khawaja Nazimuddin",
+                "Chaudhry Muhammad Ali",
+                "Huseyn Shaheed Suhrawardy"
+            ],
+            "answer": "Liaquat Ali Khan"
+        },
+        {
+            "question": "Which province of Pakistan has the highest population?",
+            "choices": [
+                "Punjab",
+                "Sindh",
+                "Khyber Pakhtunkhwa",
+                "Balochistan"
+            ],
+            "answer": "Punjab"
+        },
+        {
+            "question": "What was the name of Pakistan before Bangladesh became an independent country?",
+            "choices": [
+                "Hindustan",
+                "Bangladesh",
+                "West Pakistan",
+                "East Pakistan"
+            ],
+            "answer": "West Pakistan"
+        },
+        {
+            "question": "Who was the first female Prime Minister of Pakistan?",
+            "choices": [
+                "Benazir Bhutto",
+                "Fatima Jinnah",
+                "Begum Ra'ana Liaquat Ali Khan",
+                "Begum Nusrat Bhutto"
+            ],
+            "answer": "Benazir Bhutto"
+        },
+        {
+            "question": "Who was the first President of Pakistan?",
+            "choices": [
+                "Iskander Mirza",
+                "Ayub Khan",
+                "Zulfikar Ali Bhutto",
+                "Muhammad Ali Jinnah"
+            ],
+            "answer": "Iskander Mirza"
+        },
+        {
+            "question": "Which Pakistani city is known as the 'City of Flowers'?",
+            "choices": [
+                "Peshawar",
+                "Islamabad",
+                "Lahore",
+                "Karachi"
+            ],
+            "answer": "Peshawar"
+        },
+        {
+            "question": "Who was the first Pakistani to climb Mount Everest?",
+            "choices": [
+                "Nazir Sabir",
+                "Hassan Sadpara",
+                "Samina Baig",
+                "Ashraf Aman"
+            ],
+            "answer": "Nazir Sabir"
+        },
+        {
+            "question": "Who was the first Pakistani to win a Nobel Prize?",
+            "choices": [
+                "Abdus Salam",
+                "Malala Yousafzai",
+                "Dr. Abdul Qadeer Khan",
+                "Muhammad Yunus"
+            ],
+            "answer": "Abdus Salam"
+        },
+        {
+            "question": "Which Pakistani cricketer was the first to score 10,000 runs in Test cricket?",
+            "choices": [
+                "Javed Miandad",
+                "Inzamam-ul-Haq",
+                "Younis Khan",
+                "Mohammad Yousuf"
+            ],
+            "answer": "Younis Khan"
+        },
+        {
+            "question": "Which Pakistani athlete won the gold medal in the 1960 Rome Olympics?",
+            "choices": [
+                "Abdul Khaliq",
+                "Muhammad Akram",
+                "Muhammad Younis",
+                "Ghulam Raziq"
+            ],
+            "answer": "Abdul Khaliq"
+        },
+        {
+            "question": "Which Pakistani squash player won the British Open seven times in a row from 1959 to 1965?",
+            "choices": [
+                "Hashim Khan",
+                "Jahangir Khan",
+                "Jansher Khan",
+                "Azam Khan"
+            ],
+            "answer": "Hashim Khan"
+        },
+        {
+            "question": "In which year did Pakistan win its first Hockey World Cup?",
+            "choices": [
+                "1971",
+                "1975",
+                "1978",
+                "1982"
+            ],
+            "answer": "1971"
+        },
+        {
+            "question": "Who is the only Pakistani to have won a gold medal at the Olympics in any sport other than hockey?",
+            "choices": [
+                "Hussain Shah",
+                "Shahbaz Ahmed",
+                "Waseem Ahmed",
+                "Muhammad Ali"
+            ],
+            "answer": "Hussain Shah"
+        },
+        {
+            "question": "Which Pakistani cricketer holds the record for the highest individual score in Test cricket?",
+            "choices": [
+                "Hanif Mohammad",
+                "Inzamam-ul-Haq",
+                "Younis Khan",
+                "Javed Miandad"
+            ],
+            "answer": "Hanif Mohammad"
+        },
+        {
+            "question": "Which Pakistani wrestler won the bronze medal in the 1960 Rome Olympics?",
+            "choices": [
+                "Muhammad Bashir",
+                "Muhammad Aslam",
+                "Muhammad Rafique",
+                "Muhammad Asghar"
+            ],
+            "answer": "Muhammad Bashir"
+        },
+        {
+            "question": "Which Pakistani snooker player won the World Snooker Championship in 1994?",
+            "choices": [
+                "Mohammad Yousuf",
+                "Saleh Mohammad",
+                "Shahid Aftab",
+                "Ijaz Ahmed"
+            ],
+            "answer": "Mohammad Yousuf"
+        },
+        {
+            "question": "Who is the only Pakistani cricketer to have scored a triple century in Test cricket?",
+            "choices": [
+                "Javed Miandad",
+                "Inzamam-ul-Haq",
+                "Younis Khan",
+                "Azhar Ali"
+            ],
+            "answer": "Younis Khan"
+        },
+        {
+            "question": "Which Pakistani boxer won the gold medal in the flyweight category at the 1988 Seoul Olympics?",
+            "choices": [
+                "Syed Hussain Shah",
+                "Muhammad Bashir",
+                "Rauf Butt",
+                "Rashid Mehmood"
+            ],
+            "answer": "Syed Hussain Shah"
+        },
+        {
+            "question": "Which Pakistani cricketer has the most test match wickets for Pakistan?",
+            "choices": [
+                "Imran Khan",
+                "Wasim Akram",
+                "Saqlain Mushtaq",
+                "Shoaib Akhtar"
+            ],
+            "answer": "Wasim Akram"
+        },
+        {
+            "question": "In which year did Pakistan win the Hockey World Cup for the first time?",
+            "choices": [
+                "1971",
+                "1975",
+                "1978",
+                "1982"
+            ],
+            "answer": "1971"
+        },
+        {
+            "question": "Which Pakistani bowler took a hat-trick in the 1992 Cricket World Cup?",
+            "choices": [
+                "Imran Khan",
+                "Wasim Akram",
+                "Waqar Younis",
+                "Aaqib Javed"
+            ],
+            "answer": "Wasim Akram"
+        },
+        {
+            "question": "Which Pakistani batsman has the highest individual score in test cricket?",
+            "choices": [
+                "Younis Khan",
+                "Javed Miandad",
+                "Inzamam-ul-Haq",
+                "Azhar Ali"
+            ],
+            "answer": "Younis Khan"
+        },
+        {
+            "question": "Which Pakistani cricketer has the most ODI runs for Pakistan?",
+            "choices": [
+                "Inzamam-ul-Haq",
+                "Mohammad Yousuf",
+                "Saeed Anwar",
+                "Javed Miandad"
+            ],
+            "answer": "Inzamam-ul-Haq"
+        },
+        {
+            "question": "Which Pakistani boxer won a bronze medal in the 1988 Olympics?",
+            "choices": [
+                "Hussain Shah",
+                "Amir Khan",
+                "Mansoor Ahmed",
+                "Zulfiqar Ali"
+            ],
+            "answer": "Hussain Shah"
+        },
+        {
+            "question": "Which Pakistani cricketer has the most ODI wickets for Pakistan?",
+            "choices": [
+                "Saqlain Mushtaq",
+                "Waqar Younis",
+                "Wasim Akram",
+                "Shoaib Akhtar"
+            ],
+            "answer": "Wasim Akram"
+        },
+        {
+            "question": "Which Pakistani athlete won a bronze medal in the 1996 Olympics?",
+            "choices": [
+                "Mohammad Ashiq",
+                "Haider Ali",
+                "Jehangir Khan",
+                "Syed Azhar Shah"
+            ],
+            "answer": "Jehangir Khan"
+        },
+        {
+            "question": "What was the name of the main character in the Pakistani TV series 'Humsafar'?",
+            "choices": [
+                "Khirad",
+                "Ashar",
+                "Sara",
+                "Farida"
+            ],
+            "answer": "Khirad"
+        },
+        {
+            "question": "Which Pakistani TV series was based on the novel 'Mera Naam Yusuf Hai' by Khalil-ur-Rehman Qamar?",
+            "choices": [
+                "Sadqay Tumhare",
+                "Pyarey Afzal",
+                "Mera Naam Yusuf Hai",
+                "Sun Yaara"
+            ],
+            "answer": "Mera Naam Yusuf Hai"
+        },
+        {
+            "question": "In the Pakistani TV series 'Diya Aur Baati Hum', what was the profession of the main character, Sandhya?",
+            "choices": [
+                "Doctor",
+                "Teacher",
+                "Police Officer",
+                "Chef"
+            ],
+            "answer": "Police Officer"
+        },
+        {
+            "question": "What was the name of the main character in the Pakistani TV series 'Mann Mayal'?",
+            "choices": [
+                "Mannu",
+                "Maya",
+                "Mikaal",
+                "Manahil"
+            ],
+            "answer": "Manahil"
+        },
+        {
+            "question": "In the Pakistani TV series 'Zindagi Gulzar Hai', what was the name of the male lead character?",
+            "choices": [
+                "Kashaf",
+                "Zaroon",
+                "Asmara",
+                "Sara"
+            ],
+            "answer": "Zaroon"
+        },
+        {
+            "question": "Which Pakistani TV series was based on the novel 'Peer-e-Kamil' by Umera Ahmed?",
+            "choices": [
+                "Zindagi Gulzar Hai",
+                "Shehr-e-Zaat",
+                "Udaari",
+                "Alif Allah Aur Insaan"
+            ],
+            "answer": "Peer-e-Kamil"
+        },
+        {
+            "question": "What was the name of the character played by Fawad Khan in the Pakistani TV series 'Zindagi Gulzar Hai'?",
+            "choices": [
+                "Kashaf",
+                "Zaroon",
+                "Asmara",
+                "Sara"
+            ],
+            "answer": "Zaroon"
+        },
+        {
+            "question": "In the Pakistani TV series 'Sadqay Tumhare', what was the name of the main character played by Mahira Khan?",
+            "choices": [
+                "Shanno",
+                "Kashaf",
+                "Saba",
+                "Mera"
+            ],
+            "answer": "Shanno"
+        },
+        {
+            "question": "Which Pakistani TV series was based on the novel 'Man-o-Salwa' by Umera Ahmed?",
+            "choices": [
+                "Daam",
+                "Man-o-Salwa",
+                "Dhoop Kinare",
+                "Zindagi Gulzar Hai"
+            ],
+            "answer": "Man-o-Salwa"
+        },
+        {
+            "question": "What was the name of the character played by Saba Qamar in the Pakistani TV series 'Baaghi'?",
+            "choices": [
+                "Anmol",
+                "Qandeel",
+                "Fouzia",
+                "Zainab"
+            ],
+            "answer": "Qandeel"
+        },
+        {
+            "question": "What is the name of the first Pakistani movie?",
+            "choices": [
+                "Teri Yaad",
+                "Do Ansoo",
+                "Hulchul",
+                "Parwaaz"
+            ],
+            "answer": "Do Ansoo"
+        },
+        {
+            "question": "Who played the lead role in the Pakistani movie 'Maula Jatt'?",
+            "choices": [
+                "Sultan Rahi",
+                "Mustafa Qureshi",
+                "Aasia",
+                "Saima"
+            ],
+            "answer": "Sultan Rahi"
+        },
+        {
+            "question": "Which Pakistani movie was banned in Pakistan due to its controversial content?",
+            "choices": [
+                "Zinda Bhaag",
+                "Khuda Ke Liye",
+                "Bol",
+                "Maalik"
+            ],
+            "answer": "Maalik"
+        },
+        {
+            "question": "Which Pakistani movie won the Best Picture Award at the 2019 Lux Style Awards?",
+            "choices": [
+                "Cake",
+                "Laal Kabootar",
+                "Parey Hut Love",
+                "Baaji"
+            ],
+            "answer": "Laal Kabootar"
+        },
+        {
+            "question": "What was the name of the character played by Saba Qamar in the movie 'Hindi Medium'?",
+            "choices": [
+                "Mita",
+                "Rashmi",
+                "Meera",
+                "Preeti"
+            ],
+            "answer": "Meera"
+        },
+        {
+            "question": "Who directed the Pakistani movie 'Actor in Law'?",
+            "choices": [
+                "Nabeel Qureshi",
+                "Fizza Ali Meerza",
+                "Shoaib Mansoor",
+                "Nadeem Baig"
+            ],
+            "answer": "Nabeel Qureshi"
+        },
+        {
+            "question": "In which year was the Pakistani movie 'Khuda Kay Liye' released?",
+            "choices": [
+                "2004",
+                "2006",
+                "2008",
+                "2010"
+            ],
+            "answer": "2008"
+        },
+        {
+            "question": "Who played the lead role in the Pakistani movie 'Manto'?",
+            "choices": [
+                "Fawad Khan",
+                "Sarmad Khoosat",
+                "Sanam Saeed",
+                "Mahira Khan"
+            ],
+            "answer": "Sarmad Khoosat"
+        },
+        {
+            "question": "Which Pakistani movie was selected as the country's official entry for the Best Foreign Language Film at the 88th Academy Awards?",
+            "choices": [
+                "Moor",
+                "Jawani Phir Nahi Ani",
+                "Ho Mann Jahaan",
+                "Mah-e-Mir"
+            ],
+            "answer": "Moor"
+        },
+        {
+            "question": "What was the name of the character played by Mehwish Hayat in the Pakistani movie 'Actor in Law'?",
+            "choices": [
+                "Sonia",
+                "Mehak",
+                "Haya",
+                "Sarah"
+            ],
+            "answer": "Mehak"
+        },
+        {
+            "question": "Which Pakistani TV series was based on the novel 'Man-o-Salwa'?",
+            "choices": [
+                "Dastaan",
+                "Man-o-Salwa",
+                "Meri Zaat Zarra-e-Benishan",
+                "Udaari"
+            ],
+            "answer": "Man-o-Salwa"
+        },
+        {
+            "question": "In which Pakistani TV series did Mahira Khan play the character of Khirad?",
+            "choices": [
+                "Humsafar",
+                "Zindagi Gulzar Hai",
+                "Dastaan",
+                "Bin Roye"
+            ],
+            "answer": "Humsafar"
+        },
+        {
+            "question": "Which Pakistani TV series was based on the life of Hazrat Umar (RA)?",
+            "choices": [
+                "Munkir",
+                "Omar Dadi aur Gharwalay",
+                "Omar Series",
+                "Umar Shareef in New York"
+            ],
+            "answer": "Omar Series"
+        },
+        {
+            "question": "Which Pakistani TV series starred Saba Qamar in the role of Qandeel Baloch?",
+            "choices": [
+                "Baaghi",
+                "Udaari",
+                "Sannata",
+                "Cheekh"
+            ],
+            "answer": "Baaghi"
+        },
+        {
+            "question": "What is the name of the Pakistani TV series that tells the story of a girl who wants to become a cricketer?",
+            "choices": [
+                "Koi Chand Rakh",
+                "Khaani",
+                "Khuda Aur Mohabbat",
+                "Tabeer"
+            ],
+            "answer": "Darr Khuda Say"
+        },
+        {
+            "question": "Which Pakistani TV series starred Fawad Khan and Sanam Saeed in the lead roles?",
+            "choices": [
+                "Zindagi Gulzar Hai",
+                "Humsafar",
+                "Dastaan",
+                "Numm"
+            ],
+            "answer": "Zindagi Gulzar Hai"
+        },
+        {
+            "question": "What is the name of the Pakistani TV series that revolves around the lives of four sisters?",
+            "choices": [
+                "Aangan",
+                "Diyaar-e-Dil",
+                "Mera Naam Yousuf Hai",
+                "Doraha"
+            ],
+            "answer": "Aangan"
+        },
+        {
+            "question": "Which Pakistani TV series starred Sajal Aly and Ahad Raza Mir in the lead roles?",
+            "choices": [
+                "Yakeen Ka Safar",
+                "Aangan",
+                "Alif",
+                "Mere Paas Tum Ho"
+            ],
+            "answer": "Yakeen Ka Safar"
+        },
+        {
+            "question": "Who directed the Pakistani movie 'Khuda Kay Liye'?",
+            "choices": [
+                "Nabeel Qureshi",
+                "Shoaib Mansoor",
+                "Asim Abbasi",
+                "Mahera Khan"
+            ],
+            "answer": "Shoaib Mansoor"
+        },
+        {
+            "question": "Which Pakistani movie is based on the life of former Prime Minister Benazir Bhutto?",
+            "choices": [
+                "Manto",
+                "Verna",
+                "Zinda Bhaag",
+                "Shaheed-e-Mohabbat Boota Singh"
+            ],
+            "answer": "Shaheed-e-Mohabbat Boota Singh"
+        },
+        {
+            "question": "In which Pakistani movie did Mehwish Hayat play the role of a rockstar?",
+            "choices": [
+                "Actor in Law",
+                "Jawani Phir Nahi Ani",
+                "Punjab Nahi Jaungi",
+                "Load Wedding"
+            ],
+            "answer": "Load Wedding"
+        },
+        {
+            "question": "Which Pakistani movie won the Best Picture award at the 2014 ARY Film Awards?",
+            "choices": [
+                "Na Maloom Afraad",
+                "Jawani Phir Nahi Ani",
+                "Parwaaz Hai Junoon",
+                "Bol"
+            ],
+            "answer": "Na Maloom Afraad"
+        },
+        {
+            "question": "In which Pakistani movie did Fawad Khan make his film debut?",
+            "choices": [
+                "Humsafar",
+                "Zindagi Gulzar Hai",
+                "Khuda Kay Liye",
+                "Khoobsurat"
+            ],
+            "answer": "Khuda Kay Liye"
+        },
+        {
+            "question": "Which Pakistani movie was selected as the country's entry for the Best International Feature Film category at the 2020 Academy Awards?",
+            "choices": [
+                "Cake",
+                "Laal Kabootar",
+                "Teefa in Trouble",
+                "Pinky Memsaab"
+            ],
+            "answer": "Laal Kabootar"
+        },
+        {
+            "question": "Who directed the Pakistani movie 'Bol'?",
+            "choices": [
+                "Asim Abbasi",
+                "Shoaib Mansoor",
+                "Nabeel Qureshi",
+                "Syed Ali Raza Usama"
+            ],
+            "answer": "Shoaib Mansoor"
+        },
+        {
+            "question": "Which Pakistani movie was the highest-grossing film of 2019?",
+            "choices": [
+                "Parwaaz Hai Junoon",
+                "The Legend of Maula Jatt",
+                "Superstar",
+                "Chhalawa"
+            ],
+            "answer": "Superstar"
+        },
+        {
+            "question": "Which Pakistani movie is a biopic on the life of social activist Abdul Sattar Edhi?",
+            "choices": [
+                "Manto",
+                "Sawa 14 August",
+                "Jeewan Hathi",
+                "Aik Thi Raniya"
+            ],
+            "answer": "Jeewan Hathi"
+        },
+        {
+            "question": "Which Pakistani movie starred Mahira Khan and Sheheryar Munawar in lead roles?",
+            "choices": [
+                "Bin Roye",
+                "Ho Mann Jahaan",
+                "7 Din Mohabbat In",
+                "Parey Hut Love"
+            ],
+            "answer": "7 Din Mohabbat In"
+        }
+    ]
+}

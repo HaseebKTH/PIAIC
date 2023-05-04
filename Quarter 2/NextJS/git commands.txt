@@ -1,4 +1,5 @@
 untracked ---> unmodified ---> modified ---> staged ---> commit (unmodified) 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 to view git file status
@@ -42,6 +43,14 @@ to view the git log
 git log (press q to quit)
 
 
+to view the git log along with what was removed
+-------------------
+git log -p (press q to quit)
+
+to view the git log stats
+-------------------
+git log -p (press q to quit)
+
 
 to clone a remote directory
 --------------------
@@ -53,3 +62,51 @@ to create any file
 touch .gitignore
 
 
+to see difference between files in working directory and staging area
+---------------------------------------------------------------------
+git diff
+
+
+to see difference between files in staging area and last commit
+----------------------------------------------------------------
+git diff --staged
+
+
+to commit the files directly from working directory (This will not commit untracked files)
+--------------------------------------------------
+git commit -a -m "Message"
+
+
+removing file from git (this will also delete the file)
+----------------------
+git rm 'file.ext'
+
+
+Rename file in Git
+-------------------
+git mv first.txt first_renamed.txt
+
+
+To change file bieng tracked to untracked
+-----------------------------------------
+git rm --cached file.txt 
+
+
+to unstage a file
+------------------
+git restore --staged filename.txt
+
+
+to go back to commit stage after undoing the file in working directory
+----------------------------------------------------------------------
+git checkout -- filename.txt
+
+
+to discard all changes in working directory for all files, go back to last commit
+---------------------------------------------------------------------------------
+git checkout -f
+
+
+to view git remote urls
+-----------------------
+git remote -v

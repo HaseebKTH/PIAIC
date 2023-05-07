@@ -110,3 +110,47 @@ git checkout -f
 to view git remote urls
 -----------------------
 git remote -v
+
+
+to configure commands alias
+---------------------------
+git config --global alias.st status (we have set st as alias of status, now we can run git st)
+
+
+to create a new branch
+----------------------
+git checkout -b my_new_branch
+
+
+to switch a branch
+------------------
+git checkout master_branch
+
+
+to merge a branch into current branch
+-------------------------------------
+git merge my_new_branch
+
+
+to view all available branches 
+------------------------------
+git branch -v
+
+
+to see all merged branches
+-------------------------
+git branch --merged
+
+
+to see all unmerged branches
+-------------------------
+git branch --no-merged
+
+
+to delete a branch after merging
+--------------------------------
+git branch -d issue1
+
+
+
+
